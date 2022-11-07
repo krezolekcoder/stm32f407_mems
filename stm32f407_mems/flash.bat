@@ -1,0 +1,1 @@
+pyocd flash -t stm32f407vgtx build/stm32f407_mems.hex
